@@ -12,7 +12,7 @@ const ListaRestaurantes = () => {
         {
           id: 1,
           descricao: 'Lasanha à Bolonhesa',
-          imagem: 'https://receitassaborosa.com/wp-content/uploads/2019/12/Lasanha-com-Molho-a-Bolonhesa.jpg',
+          imagem: 'https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/16f8aff19e2a7db960e01ccab3901bfe.jpg?itok=bKTLCjv4',
           nome: 'Lasanha',
           restaurante: 1,
           tag: 'Italiana'
@@ -20,7 +20,7 @@ const ListaRestaurantes = () => {
         {
           id: 2,
           descricao: 'Strogonoff de Frango à brasileira',
-          imagem: 'https://img.itdg.com.br/images/recipes/000/002/462/332854/332854_original.jpg',
+          imagem: 'https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2022/08/03/1769155807-receita-de-strogonoff-de-carne-ou-frango-02.jpeg',
           nome: 'Strogonoff',
           restaurante: 1,
           tag: 'Russa'
@@ -28,7 +28,7 @@ const ListaRestaurantes = () => {
         {
           id: 3,
           descricao: 'Empadão de Frango',
-          imagem: 'https://t1.uc.ltmcdn.com/pt/images/5/7/1/img_como_fazer_empadao_de_frango_27175_600.jpg',
+          imagem: 'https://www.clubedereceitas.com.br/wp-content/uploads/2023/06/receita-empadao-de-frango-cremoso.jpg',
           nome: 'Empadão de Frango',
           restaurante: 1,
           tag: 'Portuguesa'
@@ -64,7 +64,7 @@ const ListaRestaurantes = () => {
         {
           id: 1,
           descricao: 'Salgado de queijo com presunto',
-          imagem: 'https://img.itdg.com.br/tdg/images/recipes/000/102/312/279767/279767_original.jpg',
+          imagem: 'https://centraldossalgados.com.br/wp-content/uploads/2022/11/salgado-queijo-com-presunto.jpg',
           nome: 'Quejunto',
           restaurante: 1,
           tag: 'Lanche'
@@ -80,7 +80,7 @@ const ListaRestaurantes = () => {
         {
           id: 3,
           descricao: 'Risole de Palmito',
-          imagem: 'https://img.itdg.com.br/tdg/images/recipes/000/005/116/323871/323871_original.jpg',
+          imagem: 'https://togocongelados.com.br/wp-content/uploads/2022/10/119969341_2093651397445383_1060893899549623074_n-e1665673653157.jpg',
           nome: 'Risole',
           restaurante: 1,
           tag: 'Lanche'
